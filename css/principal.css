@@ -19,16 +19,22 @@ h1{
     grid-template-columns: 125px 125px 125px 125px;
     grid-template-rows: 100px 100px 100px 100px 100px 100px;
 }
-.tela{
+#tela{
     grid-column: 1/5;
     background-color: white;
     text-align: right;
-    font-size: 5em;
+    font-size: 5rem;
     
 }
 #zero{
     grid-column: 1/3;
 }
 .numeros{
-    font-size: 1.5em;
+    font-size: 1.5rem;
+}
+.ops{
+    font-size: 1.5rem;
+}
+#apaga{
+    font-size: 1.5rem;
 }
